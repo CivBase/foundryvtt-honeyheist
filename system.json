@@ -5,7 +5,7 @@
 	"version": 1.24,
 	"templateVersion": 2,
 	"minimumCoreVersion": "0.6.0",
-	"compatibleCoreVersion": "0.8.9",
+	"compatibleCoreVersion": "10",
 	"author": "JHaywood",
 	"esmodules": [ "module/main.js" ],
 	"styles": [ "styles/main.css" ],
@@ -17,8 +17,8 @@
 			"path": "lang/en.json"
 		}
 	],
-	"url": "https://github.com/jbhaywood/foundryvtt-honeyheist/",
-	"manifest": "https://raw.githubusercontent.com/jbhaywood/foundryvtt-honeyheist/master/system.json",
-	"download": "https://github.com/jbhaywood/foundryvtt-honeyheist/archive/v1.24.zip",
+	"url": "https://github.com/CivBase/foundryvtt-honeyheist/",
+	"manifest": "https://raw.githubusercontent.com/CivBase/foundryvtt-honeyheist/master/system.json",
+	"download": "https://github.com/CivBase/foundryvtt-honeyheist/archive/v1.24.zip",
 	"license": "LICENSE.txt"
 }
